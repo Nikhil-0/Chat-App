@@ -91,6 +91,6 @@ This project is configured for a free deployment on [Render](https://render.com/
 -   **Publish Directory:** `dist`
 -   **Add Environment Variable:**
     -   **Key:** `VITE_BACKEND_URL`
-    -   **Value:** The URL of your backend Web Service (e.g., `https://your-chat-server.onrender.com`)
+    -   **Value:** The URL of my backend Web Service: https://nikhils-chat-app.onrender.com
 
 After both services are deployed, the chat application will be live and fully functional on the internet.
